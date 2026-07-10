@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Meera Ghassan
+# Hi there! 👋 I'm Meera 
 
 🎓 **Computer Engineering Student** passionate about learning, building projects, and improving my programming skills.
 
